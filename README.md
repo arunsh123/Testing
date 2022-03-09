@@ -4,7 +4,7 @@ In this repository called **Testing** we will learn basic writing and formatting
 
 ## Content:
 
-- [Heading]
+- [Heading]{Heading}
 - Styling text
 - Quoting text
 - Links
