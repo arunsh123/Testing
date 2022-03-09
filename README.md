@@ -1,6 +1,9 @@
 # Testing
-In this repository called Testing we will learn basic writing and formatting syntax. 
-Content:
+In this repository called **Testing** we will learn basic writing and formatting syntax. 
+
+
+## Content:
+
 - Heading
 - Styling text
 - Quoting text
@@ -17,3 +20,16 @@ Content:
 - Commenting 
 
 ## Heading
+
+For creating heading by using # symbols.
+Number of # determine the size of Heading.
+For larger Heading using #.
+For second larger Heading using ##.
+For smaller Heading using ######.
+
+## Styling text
+
+Style         Syntax         Output
+Bold       ** **         **This is bold text**
+Italic   * *            *This text is italicized*
+Strikethrough    ~~ ~~      ~~This was mistaken text~~
