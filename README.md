@@ -22,14 +22,13 @@ In this repository called **Testing** we will learn basic writing and formatting
 ## Heading
 
 For creating heading by using # symbols.<br/>
-Number of # determine the size of Heading.
-For larger Heading using #.
-For second larger Heading using ##.
-For smaller Heading using ######.
+Number of # determine the size of Heading.<br/>
+For larger Heading using #.<br/>
+For second larger Heading using ##.<br/>
+For smaller Heading using ######.<br/>
 
 ## Styling text
 
-Style         Syntax         Output
-Bold       ** **         **This is bold text**
-Italic   * *            *This text is italicized*
-Strikethrough    ~~ ~~      ~~This was mistaken text~~
+Bold       ** **         **This is bold text**<br/>
+Italic   * *            *This text is italicized*<br/>
+Strikethrough    ~~ ~~      ~~This was mistaken text~~<br/>
