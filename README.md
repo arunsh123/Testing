@@ -10,9 +10,9 @@ In this repository called **Testing** we will learn basic writing and formatting
 - [Links](Links)
 - [Images](Images)
 - [List](List)
-- [Task list](Task list)
-- [Mention Members and Team](Mention Members and Team)
-- [Uploading emoji](Uploading emoji)
+- [Task list](Task-list)
+- [Mention Members and Team](Mention-Members-and-Team)
+- [Uploading emoji](Uploading-emoji)
 - [Paragraphs](Paragraphs)
 
 ## Heading
