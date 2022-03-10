@@ -5,7 +5,7 @@ In this repository called **Testing** we will learn basic writing and formatting
 ## Content:
 
 - [Heading](#Heading)
-- [Styling text](#Styling_text)
+- [Styling text](#Styling-text)
 - Quoting text
 - Links
 - Images
